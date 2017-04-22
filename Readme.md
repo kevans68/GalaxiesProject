@@ -1,5 +1,6 @@
 Quick start:
-````make && ./randexbulge && python GalaxyPlot_lf_SA.py```
+
+```make && ./randexbulge && python GalaxyPlot_lf_SA.py```
 
 To generate initial conditions run: ./randex. 
 Then run the integrator code with the <integrator> specified with either 0(Runge Kutta 
